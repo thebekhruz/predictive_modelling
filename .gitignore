@@ -1,0 +1,5 @@
+predictive_modelling_venv/*
+
+# macOS system file
+.DS_Store 
+*/.DS_Store 
