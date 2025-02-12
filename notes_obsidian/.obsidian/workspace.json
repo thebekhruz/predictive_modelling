@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "1e365f7f2e13d527",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83f8eb7ac156f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46cdba7c00b4602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regression_analysis/Correlation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Correlation"
+            }
+          },
+          {
+            "id": "499b9bf74134f4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EDA/Dataset_Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataset_Introduction"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7d8b2f48dc266e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8cc85677b44861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e397e7ae17405c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fca4ddd8d9a2881d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2e6d9c9cd712303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b52070c7487f97af",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76cef94607183fe",
+        "type": "tabs",
+        "dimension": 77.77777777777779,
+        "children": [
+          {
+            "id": "89b94a0a91568d70",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "79624eb5c6c87144",
+        "type": "tabs",
+        "dimension": 22.22222222222222,
+        "children": [
+          {
+            "id": "afde1bd5de03aeb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EDA/Dataset_Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dataset_Introduction"
+            }
+          },
+          {
+            "id": "7e21737f276a6b18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "53f5d51b8e57acf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab7e616bd3d425ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EDA/Dataset_Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dataset_Introduction"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "499b9bf74134f4cb",
+  "lastOpenFiles": [
+    "Regression_analysis/Correlation.md",
+    "Initial Exploratory Visualisation.md",
+    "EDA/EDA.md",
+    "EDA/Dataset_Introduction.md",
+    "Regression analysis/Correlation.md",
+    "Regression_analysis/Regression_analysis.md",
+    "Regression_analysis/Multicollinearity.md",
+    "Regression_analysis/Feature_Selection.md",
+    "Regression_analysis/Causation.md",
+    "Regression_analysis",
+    "Regression analysis/Causation.md",
+    "Regression analysis/Feature_Selection.md",
+    "Feature.md",
+    "Regression analysis/Feature Selection.md",
+    "2FFeature Selection.md",
+    "Regression analysis/Multicollinearity.md",
+    "Heatmaps.md",
+    "Regression analysis/Regression_analysis.md",
+    "Regression analysis",
+    "EDA",
+    "Welcome.md"
+  ]
+}

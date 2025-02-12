@@ -1,0 +1,6 @@
+- **Definition**: A change in one variable directly causes a change in another.
+- **Correlation vs. Causation**: Just because two variables are correlated doesn’t mean one causes the other.
+- **How to Test for Causation**:
+    - Randomised experiments
+    - Directed Acyclic Graphs (DAGs)
+    - Granger Causality test
