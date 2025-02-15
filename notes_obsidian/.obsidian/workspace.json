@@ -16,9 +16,7 @@
                 "file": "Regression_analysis/Correlation.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Correlation"
+              }
             }
           },
           {
@@ -27,12 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDA/Dataset_Introduction.md",
+                "file": "Encoding in Machine Learning.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dataset_Introduction"
+              }
             }
           }
         ],
@@ -55,11 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -74,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -84,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -109,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "state": {}
             }
           }
         ]
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDA/Dataset_Introduction.md",
+                "file": "Encoding in Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +122,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Dataset_Introduction"
+              }
             }
           },
           {
@@ -146,11 +131,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Encoding in Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -160,12 +144,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -174,13 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDA/Dataset_Introduction.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Dataset_Introduction"
+                "file": "Encoding in Machine Learning.md"
+              }
             }
           }
         ],
@@ -202,8 +177,16 @@
   },
   "active": "499b9bf74134f4cb",
   "lastOpenFiles": [
-    "Initial Exploratory Visualisation.md",
+    "Encoding.md",
+    "Encoding in Machine Learning.md",
+    "One-Hot Encoding.md",
+    "Label Encoding.md",
     "EDA/Dataset_Introduction.md",
+    "Ordered.md",
+    "link.md",
+    "Ordinality.md",
+    "Initial Exploratory Visualisation.md",
+    "One-Hot.md",
     "Regression_analysis/Correlation.md",
     "EDA/EDA.md",
     "Regression analysis/Correlation.md",
